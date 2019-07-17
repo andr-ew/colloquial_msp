@@ -1,5 +1,5 @@
 # colloquial_msp
-sample rate redection of some sort
+broken sample rate reducer
 
 # building
 
